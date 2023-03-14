@@ -1,0 +1,20 @@
+{
+  "itsm": {
+    "token": "",
+    "createDynamicInfo": {},
+    "viewDynamicInfo": {},
+    "category": {
+      "department": [],
+      "character": [],
+      "module": []
+    },
+    "api": {
+      "login": "",
+      "getUserList": "",
+      "getList": "",
+      "create": ""
+    },
+    "createStaticInfo": {},
+    "viewStaticInfo": {}
+  }
+}
